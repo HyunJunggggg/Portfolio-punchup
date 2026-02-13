@@ -39,7 +39,7 @@ Each state gives a glimpse into different aspects of my personality, showing tha
 ## Lo-fi Mockups
 
 ### Overall Layout
-<img src="src/punch-up-concept.png" 
+<img src="src/punchup-concept.png" 
      alt="Lo-fi mockup showing MS Paint background with pixel character and four buttons"
      width="50%">
 
