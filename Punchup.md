@@ -1,4 +1,4 @@
-# Portfolio Punch-Up: Interactive Pixel Character (MS Paint)
+# Portfolio Punch-Up: Interactive Pixel Character (MS Paint Concept)
 
 ## Overall Objective
 
