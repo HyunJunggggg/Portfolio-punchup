@@ -40,9 +40,10 @@ Each state gives a glimpse into different aspects of my personality, showing tha
 
 ### Overall Layout
 
-<img src="punch-up.png" 
+<img src="MDIA3109/punch-up.png" 
      alt="Lo-fi mockup showing MS Paint background with pixel character and four buttons"
      width="50%">
+
 
 The focus is on layout and core concept. Details like colors or expression exact character are secondary.
 
